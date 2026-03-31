@@ -67,7 +67,7 @@
 
 ```bash
 # 在 ClawHub 中搜索并安装
-openclaw skill install credential_auditor
+openclaw skills install credential-auditor
 
 #### 方法2：手动安装
 
