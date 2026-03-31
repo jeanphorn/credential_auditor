@@ -63,7 +63,13 @@
 
 ### 安装步骤
 
-#### 方法1：手动安装（推荐）
+#### 方法1：通过 ClawHub 安装（推荐）
+
+```bash
+# 在 ClawHub 中搜索并安装
+openclaw skill install credential_auditor
+
+#### 方法2：手动安装
 
 1. **下载技能**
    ```bash
@@ -90,11 +96,7 @@
    openclaw agent --message "列出所有支持的设备类型"
    ```
 
-#### 方法2：通过 ClawHub 安装（即将支持）
 
-```bash
-# 在 ClawHub 中搜索并安装
-openclaw skill install credential_auditor
 ```
 
 ### 安装可选工具
